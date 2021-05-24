@@ -1,0 +1,3 @@
+cfscrape==2.1.1
+pandas==1.2.4
+requests==2.22.0
